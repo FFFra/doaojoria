@@ -65,7 +65,19 @@ function handleText(textNode)
 	v = v.replace(/\bsergio moro\b/g, "$ervo Moro");
 	v = v.replace(/\bSérgio moro\b/g, "$ervo Moro");
 	v = v.replace(/\bsérgio Moro\b/g, "$ervo Moro");
+
+	v = v.replace(/\bSergio moro\b/g, "$ervo Moro");
+	v = v.replace(/\bsergio Moro\b/g, "$ervo Moro");
 	
+
+	v = v.replace(/\bJoão Agripino da Costa Prefeitop Junior\b/g, "Doão Jória");
+	
+
+
+	v = v.replace(/\bCidade Linda\b/g, "Cidade Limpa");
+	v = v.replace(/\bcidade linda\b/g, "cidade limpa");
+	
+
 	textNode.nodeValue = v;
 }
 
