@@ -2,7 +2,8 @@
 Uma extensão Chrome irada pros classe média
 
 # license
-           DO WHAT THE F* YOU WANT TO PUBLIC LICENSE
+```
+DO WHAT THE F* YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
 
 Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -14,4 +15,4 @@ as the name is changed.
            DO WHAT THE F* YOU WANT TO PUBLIC LICENSE
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- 0. You just DO WHAT THE F*K YOU WANT TO.
+ 0. You just DO WHAT THE F*K YOU WANT TO.```
