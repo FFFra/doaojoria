@@ -2,9 +2,9 @@
 Uma extensão Chrome irada pros classe média
 
 # license
-```
 
-<p style="text-align: center;">
+
+
 DO WHAT THE F* YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
 
@@ -18,5 +18,5 @@ as the name is changed.
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
  0. You just DO WHAT THE F*K YOU WANT TO.
- </p>
+
  
